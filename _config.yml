@@ -1,3 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2" # You can specify the version
 plugins:
   - jekyll-remote-theme # Ensure the plugin is enabled
+minimal_mistakes_skin    : "air"
+locale: "en-US"
+title: "My First Test Site"
+subtitle: "Ver Collective"
+description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+url: "https://george-bunin.github.io"
+repository: "george-bunin/george-bunin.github.io"
